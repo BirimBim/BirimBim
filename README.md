@@ -1,5 +1,7 @@
-#It is me. Bruno.
+# It is me. Bruno.
 
-![c++ logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw3bcavLh2MINgoB3WhrR7MV&ust=1729235609120000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCvq-PulIkDFQAAAAAdAAAAABAE)
+![c++ logo](https://cdn-icons-png.flaticon.com/128/17711/17711694.png)
+![swift logo](https://cdn-icons-png.flaticon.com/128/732/732250.png)
+![python logo](https://cdn-icons-png.flaticon.com/128/5968/5968350.png)
 
-for now 😈
+For now 😈
