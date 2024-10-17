@@ -1,6 +1,6 @@
 <h1 align="center">It is me. Bruno.</h1>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirimBim&layout=donut-vertical&theme=catppuccin_mocha)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirimBim&layout=donut&theme=catppuccin_mocha)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=BirimBim&show_icons=true&layout=donut-vertical&theme=catppuccin_mocha&card_width=300px&rank_icon=github&custom_title=Bruno's-Perfect-Stats)
 
