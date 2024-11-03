@@ -1,6 +1,6 @@
 <h1 align="center">It is me. Bruno.</h1>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirimBim&layout=donut&theme=catppuccin_mocha)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirimBim&layout=donut&theme=catppuccin_mocha&hide=lua,makefile)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=06f185ca475972932621b235b686c16d&show_owner=true&theme=catppuccin_mocha)](https://gist.github.com/BirimBim/06f185ca475972932621b235b686c16d)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=BirimBim&show_icons=true&layout=donut-vertical&theme=catppuccin_mocha&card_width=300px&rank_icon=github&custom_title=Bruno's-Perfect-Stats)
